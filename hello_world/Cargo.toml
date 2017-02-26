@@ -1,5 +1,6 @@
 [package]
-
 name = "hello_world"
-version = "0.0.1"
-authors = [ "Paul Merrill <pdm@pdm.me>" ]
+version = "0.1.0"
+authors = ["Paul Merrill <pdm@pdm.me>"]
+
+[dependencies]
